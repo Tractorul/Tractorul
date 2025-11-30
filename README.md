@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tractorul
 - 👀 I’m interested in Lua , C++ , Java , Javascript
-- 🌱 I’m currently learning  Lua
+- 🌱 I’m currently learning  C++
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun facts: I'm From Romania ; I'm Passionate about aviation, photography and the Metro of Bucharest,
 
