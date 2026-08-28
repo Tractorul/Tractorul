@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tractorul
-- 👀 I’m interested in C,C++
-- 🌱 I’m currently learning  C++
+- 👀 I’m interested in HTML,CSS,javascript and C++
+- 🌱 I’m currently learning  HTML,CSS
 - 😄 Pronouns: He/Him/his
 - ⚡ Fun facts: I'm From Romania ; I'm Passionate about aviation, photography and the Metro of Bucharest,
 
